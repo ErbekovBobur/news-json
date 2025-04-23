@@ -2,131 +2,131 @@
     {
         "id": 1,
         "title": {
-            "ru": "Открытие нового парка в центре города",
-            "uz": "Shahar markazida yangi bog' ochildi"
+            "ru": "В Ташкенте открыли новый транспортный маршрут на электробусах",
+            "uz": "Toshkentda yangi elektroavtobus yo'nalishi ochildi"
         },
-        "date": "2025-04-20",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-04-22",
+        "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957",
         "description": {
-            "ru": "В центре города торжественно открылся новый городской парк с фонтанами и зонами отдыха.",
-            "uz": "Shahar markazida favvorali va dam olish zonalari bo‘lgan yangi bog‘ ochildi."
+            "ru": "В столице запустили новый экологичный маршрут от метро «Бунёдкор» до массива «Чилонзор». Используются 20 китайских электробусов BYD.",
+            "uz": "Poytaxtda «Bunyodkor» metrodan «Chilonzor»gacha yangi ekologik toza elektroavtobus yo'nalishi ishga tushirildi. 20 ta BYD elektroavtobuslari ishlatilmoqda."
         }
     },
     {
         "id": 2,
         "title": {
-            "ru": "Повышение цен на топливо.",
-            "uz": "Yoqilg‘i narxi ko‘tariladi."
+            "ru": "Узбекистан и Саудовская Аравия подписали соглашение о $10 млрд инвестиций",
+            "uz": "O'zbekiston va Saudiya Arabistoni 10 mlrd dollarlik investitsiya shartnomasini imzoladi"
         },
         "date": "2025-04-21",
-        "image": "https://picsum.photos/800/400",
+        "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c",
         "description": {
-            "ru": "RU Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium debitis obcaecati unde ipsum et magni repellendus cumque eum quibusdam dolorem ad culpa veritatis recusandae dolorum, natus suscipit dicta libero at.",
-            "uz": "Uz Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium debitis obcaecati unde ipsum et magni repellendus cumque eum quibusdam dolorem ad culpa veritatis recusandae dolorum, natus suscipit dicta libero at."
+            "ru": "Документ включает проекты в энергетике, туризме и сельском хозяйстве. Основной фокус — строительство солнечных электростанций в Каракалпакстане.",
+            "uz": "Hujjat energetika, turizm va qishloq xo'jaligi sohalaridagi loyihalarni o'z ichiga oladi. Asosiy e'tibor Qoraqalpog'istonda quyosh elektr stansiyalarini qurishga qaratilgan."
         }
     },
     {
         "id": 3,
         "title": {
-            "ru": "Школьники выиграли олимпиаду по математике",
-            "uz": "O‘quvchilar matematika olimpiadasida g‘olib bo‘lishdi lorem6"
+            "ru": "В Ташкенте стартовал фестиваль «Навруз-2025» с рекордным числом гостей",
+            "uz": "Toshkentda «Navro'z-2025» festivali rekord darajadagi mehmonlar bilan boshlandi"
         },
-        "date": "2025-04-19",
-        "image": "https://picsum.photos/700/500",
+        "date": "2025-03-20",
+        "image": "https://images.unsplash.com/photo-1513889961551-628c1e5e2ee9",
         "description": {
-            "ru": "Команда школьников из Ташкента заняла первое место на международной олимпиаде.",
-            "uz": "Toshkentlik o‘quvchilar xalqaro olimpiadada birinchi o‘rinni egalladi."
+            "ru": "На празднование в парке «Алишера Навои» пришли более 200 тыс. человек. Гвоздь программы — шоу дронов и концерт «Ялла».",
+            "uz": "«Alisher Navoiy» bog'ida bo'lib o'tgan bayramga 200 mingdan ortiq odam keldi. Dasturning asosiy diqqatga sazovor joylari - dronlar shousi va «Yalla» guruhi kontserti."
         }
     },
     {
         "id": 4,
         "title": {
-            "ru": "В Узбекистане начался сезон дождей",
-            "uz": "O‘zbekistonda yomg‘irlar mavsumi boshlandi"
+            "ru": "Цены на бензин выросли на 12% с 1 апреля",
+            "uz": "1-apreldan benzin narxlari 12% ga oshdi"
         },
-        "date": "2025-04-18",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-04-01",
+        "image": "https://images.unsplash.com/photo-1509506489701-dfe23b067808",
         "description": {
-            "ru": "Синоптики прогнозируют обильные осадки по всей территории страны в ближайшие недели.",
-            "uz": "Sinoptiklar yaqin haftalarda butun mamlakat bo‘ylab kuchli yog‘ingarchilik bo‘lishini bashorat qilmoqda."
+            "ru": "АИ-95 теперь стоит 9 800 сум/литр. Правительство объясняет это ростом цен на нефть на мировом рынке.",
+            "uz": "AI-95 benzining narxi endi 9800 so'm/litrdan boshlanadi. Hukumat buni dunyo bozorida neft narxlarining oshishi bilan izohlaydi."
         }
     },
     {
         "id": 5,
         "title": {
-            "ru": "Новый образовательный центр открылся в Ташкенте",
-            "uz": "Toshkentda yangi ta'lim markazi ochildi"
+            "ru": "В Самарканде открыли новый терминал аэропорта",
+            "uz": "Samarqand aeroportida yangi terminal ochildi"
         },
-        "date": "2025-04-17",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-04-15",
+        "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05",
         "description": {
-            "ru": "В столице открылся современный образовательный центр, оснащённый новейшими технологиями.",
-            "uz": "Poytaxtda zamonaviy ta'lim markazi ochildi, u eng so'nggi texnologiyalar bilan jihozlangan."
+            "ru": "Терминал пропускной способностью 5 млн пассажиров в год построен с участием турецкой компании «TAV».",
+            "uz": "Yiliga 5 million yo'lovchi sig'imiga ega yangi terminal Turkiyaning «TAV» kompaniyasi ishtirokida qurilgan."
         }
     },
     {
         "id": 6,
         "title": {
-            "ru": "В Узбекистане стартовал новый туристический маршрут",
-            "uz": "O‘zbekistonda yangi sayyohlik yo‘nalishi boshlandi"
+            "ru": "Ташкент вошел в ТОП-10 городов СНГ для цифровых кочевников",
+            "uz": "Toshkent MDH mamlakatlari orasida raqamli ko'chmanchilar uchun eng yaxshi 10 shahar qatoriga kirdi"
         },
-        "date": "2025-04-16",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-04-10",
+        "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
         "description": {
-            "ru": "Министерство туризма представило новый маршрут, охватывающий исторические памятники страны.",
-            "uz": "Turizm vazirligi mamlakatning tarixiy yodgorliklarini o‘z ichiga olgan yangi yo‘nalishni taqdim etdi."
+            "ru": "Рейтинг составлен по критериям стоимости жизни, скорости интернета и коворкингов. Опередил Алматы, но уступил Еревану.",
+            "uz": "Reyting turar-joy narxlari, internet tezligi va kovorking maydonlari kriteriyalari asosida tuzilgan. Olmatini ortda qoldirgan bo'lsa-da, Yerevandan keyin ikkinchi o'rinda turadi."
         }
     },
     {
         "id": 7,
         "title": {
-            "ru": "В Ташкенте прошёл международный кинофестиваль",
-            "uz": "Toshkentda xalqaro kinofestival bo‘lib o‘tdi"
+            "ru": "В Узбекистане упростили получение виз для граждан ЕС",
+            "uz": "O'zbekistonda Yevropa Ittifoqi fuqarolari uchun vizalar soddalashtirildi"
         },
-        "date": "2025-04-15",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-04-05",
+        "image": "https://images.unsplash.com/photo-1506929562872-bb421503ef21",
         "description": {
-            "ru": "В столице завершился кинофестиваль, на котором были представлены фильмы из 20 стран.",
-            "uz": "Poytaxtda 20 mamlakatdan filmlar taqdim etilgan kinofestival yakunlandi."
+            "ru": "Теперь граждане 25 стран ЕС могут получить электронную визу на 30 дней за 2 рабочих дня.",
+            "uz": "Endi Yevropa Ittifoqining 25 mamlakat fuqarolari 30 kunlik elektron vizani 2 ish kuni ichida olishlari mumkin."
         }
     },
     {
         "id": 8,
         "title": {
-            "ru": "В Узбекистане увеличены штрафы за нарушение ПДД",
-            "uz": "O‘zbekistonda YTH qoidalarini buzganlik uchun jarimalar oshirildi"
+            "ru": "В Ташкенте задержаны члены контрабандистской группы с $1 млн фальшивых долларов",
+            "uz": "Toshkentda 1 million so'm qiymatidagi soxta dollar bilan kontrabanda guruhi a'zolari qo'lga olindi"
         },
-        "date": "2025-04-14",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-04-18",
+        "image": "https://images.unsplash.com/photo-1581093450025-4d85dea6a0d8",
         "description": {
-            "ru": "С 1 июня вступают в силу новые штрафы за нарушение правил дорожного движения.",
-            "uz": "1-iyundan boshlab yangi yo‘l harakati qoidalarini buzganlik uchun jarimalar kuchga kiradi."
+            "ru": "Группа из 5 человек печатала поддельные купюры в частном доме в Сергелийском районе.",
+            "uz": "5 kishidan iborat guruh Sergeli tumanidagi xususiy uyda soxta banknotlar bosib chiqargan."
         }
     },
     {
         "id": 9,
         "title": {
-            "ru": "В Ташкенте открылся новый музей современного искусства",
-            "uz": "Toshkentda yangi zamonaviy san'at muzeyi ochildi"
+            "ru": "Узбекистан экспортировал рекордные 1.2 млн тонн фруктов в 2024 году",
+            "uz": "O'zbekiston 2024 yilda rekord darajada - 1.2 million tonna meva-sabzavot eksport qildi"
         },
-        "date": "2025-04-13",
-        "image": "https://picsum.photos/600/400",
+        "date": "2025-03-30",
+        "image": "https://images.unsplash.com/photo-1603569283847-aa295f0d016a",
         "description": {
-            "ru": "В столице открылся музей, посвящённый современному искусству и дизайну.",
-            "uz": "Poytaxtda zamonaviy san'at va dizaynga bag‘ishlangan muzey ochildi."
+            "ru": "Основные покупатели — Россия (45%), Казахстан (30%) и Китай (15%). Лидеры экспорта — черешня и виноград.",
+            "uz": "Asosiy xaridorlar - Rossiya (45%), Qozog'iston (30%) va Xitoy (15%). Eksportda olcha va uzum yetakchilik qilmoqda."
         }
     },
     {
         "id": 10,
         "title": {
-            "ru": "В Ташкенте прошёл марафон с участием 5000 человек",
-            "uz": "Toshkentda 5000 ishtirokchili marafon bo‘lib o‘tdi"
+            "ru": "В Ташкенте появится новый парк на месте бывшего завода",
+            "uz": "Toshkentda sobiq zavod o'rnida yangi bog' quriladi"
         },
         "date": "2025-04-12",
-        "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b",
+        "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
         "description": {
-            "ru": "На улицах столицы прошёл ежегодный весенний марафон, в котором приняли участие более 5000 человек.",
-            "uz": "Poytaxt ko‘chalarida 5000 dan ortiq ishtirokchi qatnashgan bahorgi an'anaviy marafon o‘tkazildi."
+            "ru": "На территории завода «Ташсельмаш» создадут зону отдыха с велодорожками и искусственным озером. Открытие — в сентябре 2025.",
+            "uz": "«Toshselmash» zavodi maydonida veloyog'li yo'llar va sun'iy ko'li bo'lgan dam olish maskani barpo etiladi. Ochilishi - 2025 yil sentyabr oyida rejalashtirilgan."
         }
     }
 ]
